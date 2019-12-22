@@ -10,7 +10,7 @@ def toadstool
 end
 
 def any_phrase
-  puts $status
+  puts phrase = "Do A Barrel Roll!"
 end
 
 def link
