@@ -9,7 +9,7 @@ def toadstool
   puts $status
 end
 
-def toadstool
+def any_phrase
   puts $status
 end
 
